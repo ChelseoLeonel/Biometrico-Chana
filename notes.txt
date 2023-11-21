@@ -1,0 +1,2 @@
+So we want to take all the names and add them to an array. Make sure there are no duplicates.
+Then for each name on the list, take their attendence and add it to a list as well. The list in this case is temporary.
