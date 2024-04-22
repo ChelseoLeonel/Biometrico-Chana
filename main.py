@@ -96,11 +96,11 @@ def main():
     auto_p = ["Antonica Jose Alfredo", "Inacio Kansobo Clemente Zaila", "Ermelinda Joana Kopumi Chipenda", "Jose Candeeiro Capassera", "Julia de Fatima Manuel Guia", "Madalena Malungo Antonio",
               "Eduardo Dinis Manuel", "Ana Teresa Braganca Manuel"]
     
-    soss = ["Danilson Andre 1", "Joaquim Freitas 1", "Sanzu Bernardo 1", "Malungo Rafael 1", "Daniel Joao 1", "Kamalando Antonio 1", "Afonso Antonio 1", "Henriques Nganga 1",
-            "Romao Zenduca 1", "Dinora Santos 1", "Alfredo Noy 1", "Fernandes Julio 1", "Edna de Sousa 1", "Agostinho Vieira 1", "Lemos Victor 1", "Moises Gumba 1",
+    soss = ["Danilson  Andre 1", "Joaquim Freitas 1", "Sanzu Bernardo 1", "Malungo Rafael 1", "Daniel  Joao 1", "Kamalando Antonio 1", "Afonso Antonio 1", "Henriques Nganga 1",
+            "Romao  Zenduca 1", "Dinora Santos 1", "Alfredo Noy 1", "Fernandes Julio 1", "Edna de Sousa 1", "Agostinho Vieira 1", "Lemos Victor 1", "Moises Gumba 1",
             "Domingas Vungi 1", "Antonio Barros 1", "Muriel Junqueira", "Eliseu Joao 1", "Germano Gonga 1", "Cilio Miguel 1", "Antonio Pires 1", "Kiteque Manuel 1", "Domingas Fragoso 1", "Armando Augusto 1", "Pedro Guerra 1"]
     
-    sossesgo = ["Danilson Jaime Torres Andre", "Joaquim Jorge Correia Freitas", "Sanzu Antonio Paulo Bernardo", "Malungo Rafael", "Daniel Francisco Joao", "Kamalando Antonio", "Afonso Pedro Antonio", "Henriques Luis Nganga",
+    sossego = ["Danilson Jaime Torres Andre", "Joaquim Jorge Correia Freitas", "Sanzu Antonio Paulo Bernardo", "Malungo Rafael", "Daniel Francisco Joao", "Kamalando Antonio", "Afonso Pedro Antonio", "Henriques Luis Nganga",
                 "Romao Mauricio Zenduca", "Dinora da Graça Bernado dos Santos", "Alfredo Armando Noy", "Fernandes Filipe Júlio", "Edna Teresa Simoes Cristovao de Sousa", "Agostinho Antonio Vieira",
                 "Lemos Alberto Victor", "Moises Antonio Gumba","Domingas Angela Sebastiao Vungi Joao", "Antonio Jose Amaro de Barros", "Muriel da Conceicao Junqueira", "Eliseu Francisco Joao",
                 "Germano Daniel Gonga", "Cilio Dirinelo Miguel Sebastiao", "Antonio Simoes Pires", "Kiteque Domingos Kitumba Manuel", "Domingas Cireucia Vapor Fragoso", "Armando Luis Francony Augusto", "Pedro Guerra"]
